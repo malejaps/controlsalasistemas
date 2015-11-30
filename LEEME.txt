@@ -1,0 +1,48 @@
+INTEGRANTES:
+
+Grupo 1: 
+Maria Alejandra Pabón 0955876 
+Claudia Lorena Quiceno 0955763 
+Victor Camilo Jimenez 0955739
+
+Grupo 2: 
+Jairo Andres Leyton 0955906
+Josue Mauricio Hurtado 0955442
+
+
+
+*******Contraseñas de inicio de sesion con base de datos adjunta*********
+**Sesion funcionario:
+Contraseña: cedula del funcionario
+
+**Sesion becario:
+Usuario: 201252953
+Contraseña: abcde
+
+Usuario:201252959
+contraseña: 123
+
+Usuario: 201252960
+Contraseña: 1234
+
+Usuario:201252965
+Contraseña: ewq
+
+Usuario:201252991
+Contraseña: 123
+
+**sesion administrador
+Usuario:11111
+Contraseña: jairo123
+
+Usuario:14444 
+Contraseña: josue123
+
+Usuario:155555
+Contraseña: claudia123
+
+Usuario: 22222
+Contraseña: maria123
+
+Usuario:33333
+Contraseña: camilo123
